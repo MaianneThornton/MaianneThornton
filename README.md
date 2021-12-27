@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Maianne Thornton (she/her)
+### Hi there 👋  I'm Maianne Thornton (she/her)
 I'm a recent graduate of the Commonwealth Coders Web Development Program based in Kentucky. I am skilled in HTML, CSS, SASS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB. 
 
 As a lifelong student who is a self motivated I am comitted to continuing my education.
