@@ -1,7 +1,8 @@
 ### Hi there 👋  I'm Maianne Thornton (she/her)
 I'm a recent graduate of the Commonwealth Coders Web Development Program based in Kentucky. I am skilled in HTML, CSS, SASS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB. 
 
-As a lifelong student who is a self motivated I am comitted to continuing my education.
+As a lifelong student who is also self motivated, I am comitted to continuing my education.
+
 👩🏾‍🎓 I’m currently enrolled in the following courses: 
 
 <ul>
@@ -17,12 +18,16 @@ As a lifelong student who is a self motivated I am comitted to continuing my edu
 👯 I’m looking to collaborate on:
 <ul>
   <li>Any projects that will help me sharpen my coding skills</li>
+  <li>Reach out with any project ideas we can use to build our portfolios!</li>
 </ul>
+
+🌱 I’m currently open to <em>remote freelance opportunities</em>
 
 📫 How to reach me:
 <ul>
-  <li>https://www.linkedin.com/feed/</li>
-  <li>https://www.maiannethornton.com/</li>
+  <li>LinkedIn: https://www.linkedin.com/feed/</li>
+  <li>email: <a href="mailto:Maianne.Thornton@gmail.com">Maianne.Thornton@gmail.com</a></li>
+  <li>Portfolio: https://www.maiannethornton.com/</li>
 </ul>
 <!--
 **MaianneThornton/MaianneThornton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
