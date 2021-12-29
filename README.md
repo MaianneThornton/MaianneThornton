@@ -21,7 +21,7 @@ As a lifelong student who is also self motivated, I am comitted to continuing my
   <li>Reach out with any project ideas we can use to build our portfolios!</li>
 </ul>
 
-🌱 I’m currently open to <em>remote freelance opportunities</em>
+🌱 I’m currently open to <em>remote and freelance opportunities</em>
 
 📫 How to reach me:
 <ul>
