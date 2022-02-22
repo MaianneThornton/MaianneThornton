@@ -3,16 +3,18 @@ I'm a recent graduate of the Commonwealth Coders Web Development Program based i
 
 As a lifelong student who is also self motivated, I am comitted to continuing my education.
 
-👩🏾‍🎓 I’m currently enrolled in the following courses: 
+👩🏾‍🎓 I recently completed the following courses/programs: 
 
 <ul>
-  <li>HarvardX's CS50's Introduction to Computer Science Course</li>
-  <li>HarvardX's CS50's Web Programming with Python and JavaScript Course</li>
+  <li>Commonwealth Coders Web Development Program | Dec. 2021</li>
+  <li>Course Central's freeCodeCamp's JavaScript Algorithms and Data Structures Certification Cohort | Feb. 2022</li>
+  
 </ul>
 
 🔭 I’m currently working on:
 <ul>
-  <li>Completing freeCodeCamp's JavaScript Algorithms and Data Structures Certification</li>
+  <li>HarvardX's CS50's Introduction to Computer Science Course</li>
+  <li>HarvardX's CS50's Web Programming with Python and JavaScript Course</li>
 </ul>
 
 👯 I’m looking to collaborate on:
