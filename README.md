@@ -27,7 +27,7 @@ As a lifelong student who is also self motivated, I am comitted to continuing my
 
 📫 How to reach me:
 <ul>
-  <li>LinkedIn: https://www.linkedin.com/feed/</li>
+  <li>LinkedIn: https://www.linkedin.com/in/MaianneThornton/</li>
   <li>Email: <a href="mailto:Maianne.Thornton@gmail.com">Maianne.Thornton@gmail.com</a></li>
   <li>Portfolio: https://www.maiannethornton.com/</li>
 </ul>
