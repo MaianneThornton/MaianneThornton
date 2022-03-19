@@ -1,20 +1,20 @@
 ### Hi there 👋  I'm Maianne Thornton (she/her)
 I'm a recent graduate of the Commonwealth Coders Web Development Program based in Kentucky. I am skilled in HTML, CSS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB. 
 
-As a lifelong student who is also self motivated, I am comitted to continuing my education.
+As a lifelong student who is also self motivated, I am committed to continuing my education.
 
 👩🏾‍🎓 I recently completed the following courses/programs: 
 
 <ul>
   <li>Commonwealth Coders Web Development Program | Dec. 2021</li>
-  <li>Course Central's freeCodeCamp's JavaScript Algorithms and Data Structures Certification Cohort | Feb. 2022</li>
+  <li>Class Central's freeCodeCamp's JavaScript Algorithms and Data Structures Certification Cohort | Feb. 2022</li>
   
 </ul>
 
 🔭 I’m currently working on:
 <ul>
-  <li>HarvardX's CS50's Introduction to Computer Science Course</li>
-  <li>HarvardX's CS50's Web Programming with Python and JavaScript Course</li>
+  <li>HarvardX's CS50 Introduction to Computer Science Course</li>
+  <li>HarvardX's CS50 Web Programming with Python and JavaScript Course</li>
 </ul>
 
 👯 I’m looking to collaborate on:
