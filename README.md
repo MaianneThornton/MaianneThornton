@@ -1,36 +1,35 @@
-### Hi there 👋  I'm Maianne Thornton (she/her)
+## Hi there 👋  I'm Maianne Thornton (she/her)
 I'm a graduate of the Commonwealth Coders Web Development Program based in Kentucky. I am skilled in HTML, CSS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB. 
 
 As a lifelong student who is also self motivated, I am committed to continuing my education.
 
-👩🏾‍🎓 I recently completed the following courses/programs: 
+## 👩🏾‍🎓 I recently completed the following courses/programs: 
 
-<ul>
-  <li>Commonwealth Coders Web Development Program | Dec. 2021</li>
-  <li>Class Central's freeCodeCamp's JavaScript Algorithms and Data Structures Certification Cohort | Feb. 2022</li>
-  
-</ul>
 
-🔭 I’m currently working on:
-<ul>
-  <li>HarvardX's CS50 Introduction to Computer Science Course</li>
-  <li>HarvardX's CS50 Web Programming with Python and JavaScript Course</li>
-</ul>
+  - Commonwealth Coders Web Development Program | Dec. 2021
+  - Class Central's freeCodeCamp's JavaScript Algorithms and Data Structures Certification Cohort | Feb. 2022
 
-👯 I’m looking to collaborate on:
-<ul>
-  <li>Any projects that will help me sharpen my coding skills</li>
-  <li>Reach out with any project ideas we can use to build our portfolios!</li>
-</ul>
 
-🌱 I’m currently open to <em>remote and freelance opportunities</em>
+## 🔭 I’m currently working on:
 
-📫 How to reach me:
-<ul>
-  <li>LinkedIn: https://www.linkedin.com/in/MaianneThornton/</li>
-  <li>Email: <a href="mailto:Maianne.Thornton@gmail.com">Maianne.Thornton@gmail.com</a></li>
-  <li>Portfolio: https://www.maiannethornton.com/</li>
-</ul>
+  - HarvardX's CS50 Introduction to Computer Science Course
+  - HarvardX's CS50 Web Programming with Python and JavaScript Course
+
+
+## 👯 I’m looking to collaborate on:
+
+  - Any projects that will help me sharpen my coding skills
+  - Reach out with any project ideas we can use to build our portfolios!
+
+
+## 🌱 I’m currently open to <em>remote and freelance opportunities</em>
+
+## 📫 How to reach me:
+
+  - [LinkedIn](https://www.linkedin.com/in/MaianneThornton/)
+  - [Email](mailto:Maianne.Thornton@gmail.com)
+  - [Portfolio](https://www.maiannethornton.com/Portfolio/index.html)
+
 <!--
 **MaianneThornton/MaianneThornton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
