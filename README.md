@@ -3,7 +3,7 @@ I am skilled in HTML, CSS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, 
 
 As a lifelong student who is also self motivated, I am committed to continuing my education.
 
-## 👩🏾‍🎓 I recently completed the following courses/programs: 
+## 👩🏾‍🎓 I completed the following courses/programs: 
 
 
   - Commonwealth Coders Web Development Program | Dec. 2021
