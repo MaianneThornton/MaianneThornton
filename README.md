@@ -28,7 +28,7 @@ I am passionate about creating technology experiences across all avenues of enga
 
   - [LinkedIn](https://www.linkedin.com/in/MaianneThornton/)
   - [Email](mailto:Maianne.Thornton@gmail.com)
-  - [Portfolio]([https://maiannethornton-portfolio.netlify.app/])
+  - [Portfolio](https://maiannethornton-portfolio.netlify.app/)
 
 <!--
 **MaianneThornton/MaianneThornton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
