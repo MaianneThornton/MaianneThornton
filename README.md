@@ -1,7 +1,7 @@
 ## Hi there 👋  I'm Maianne Thornton (she/her)
 I am skilled in HTML, CSS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB. 
 
-As a lifelong student who is also self motivated, I am committed to continuing my education.
+I am passionate about creating technology experiences across all avenues of engagement with the goal of promoting equity through the user experience.
 
 ## 👩🏾‍🎓 I completed the following courses/programs: 
 
@@ -28,7 +28,7 @@ As a lifelong student who is also self motivated, I am committed to continuing m
 
   - [LinkedIn](https://www.linkedin.com/in/MaianneThornton/)
   - [Email](mailto:Maianne.Thornton@gmail.com)
-  - [Portfolio](https://www.maiannethornton.com/Portfolio/index.html)
+  - [Portfolio]([https://maiannethornton-portfolio.netlify.app/])
 
 <!--
 **MaianneThornton/MaianneThornton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
