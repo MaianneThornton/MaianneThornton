@@ -12,8 +12,8 @@ I am passionate about creating technology experiences across all avenues of enga
 
 ## 🔭 I’m currently working on:
 
-  - HarvardX's CS50 Introduction to Computer Science Course
-  - HarvardX's CS50 Web Programming with Python and JavaScript Course
+  - Olof Paulson's Python101 course on Scrimba
+  - Brad Traversy's 50 Projects in 50 Days
 
 
 ## 👯 I’m looking to collaborate on:
