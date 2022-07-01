@@ -8,7 +8,7 @@ I am passionate about creating technology experiences across all avenues of enga
 
 ## Recent Projects
 
-<table bordercolor="#d8c0d7">
+<table>
 
 <tr>
   <td width="50%" valign="top">
@@ -28,7 +28,7 @@ I am passionate about creating technology experiences across all avenues of enga
     <img src ="Images/RandomPicker.gif"></a>
     <p><strong>Javascript, CSS, HTML</strong> - A responsive front-end development site that produces an animated choice at random. Great for decision making!</p>
     </td>
-   </tr> 
+   </tr>
 
   <tr>
   <td width="50%" valign="top">
