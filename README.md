@@ -1,6 +1,7 @@
 <img src= "Images/MaianneThornton.png">
 
-## Hi there 👋  I'm Maianne Thornton (she/her) | Pronunciation: MY-an THORN-tuhn
+<h1 align="center"> Hi there 👋 I'm Maianne Thornton | Pronunciation: MY-an THORN-tuhn</h1>
+<h2 align="center"> Pronouns: (she/her) </h2>
 I am skilled in HTML, CSS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB. 
 
 I am passionate about creating technology experiences across all avenues of engagement with the goal of promoting equity through the user experience.
