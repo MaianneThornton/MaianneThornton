@@ -2,18 +2,17 @@
 
 <h1 align="center"> Hi there 👋 I'm Maianne Thornton 
 <br> Pronunciation: MY-an THORN-tuhn | Pronouns: (she/her) </h1>
-I am skilled in HTML, CSS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB.
+<p align='center'>I am skilled in HTML, CSS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB.</p>
 
 <!-- Shield's To be later added??? -->
 <!-- <p align ="center"><a href="https://www.linkedin.com/in/MaianneThornton/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:Maianne.Thornton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;</p> -->
 
+<p align= 'center'> I am passionate about creating technological experiences across all avenues of engagement with the goal of promoting equity through the user experience. </p>
 <br>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=maiannethornton&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
-
-I am passionate about creating technology experiences across all avenues of engagement with the goal of promoting equity through the user experience.
 
 ## Recent Projects
 
@@ -21,7 +20,7 @@ I am passionate about creating technology experiences across all avenues of enga
 
 <tr>
   <td width="50%" valign="top">
-    <h3 align="center">Movie App</h3>
+    <h3 align="center"><strong>Movie App</strong></h3>
     <br />
     <p align="center">
     <a href="https://maiannne-movieapp.netlify.app/" target="_blank">
@@ -30,7 +29,7 @@ I am passionate about creating technology experiences across all avenues of enga
     </td>
 
   <td width="50%" valign="top">
-    <h3 align="center">Random Picker</h3>
+    <h3 align="center"><strong>Random Picker</strong></h3>
     <br />
     <p align="center">
     <a href="https://maianne-random-picker.netlify.app/" target="_blank">
@@ -41,7 +40,7 @@ I am passionate about creating technology experiences across all avenues of enga
 
   <tr>
   <td width="50%" valign="top">
-    <h3 align="center">Earth Wind and Flour Restaurant Menu</h3>
+    <h3 align="center"><strong>Earth Wind and Flour Restaurant Menu</strong></h3>
     <br />
     <p align="center">
     <a href="https://maianne-react-menu.netlify.app/" target="_blank">
@@ -50,7 +49,7 @@ I am passionate about creating technology experiences across all avenues of enga
     </td>
 
   <td width="50%" valign="top">
-    <h3 align="center">The Book Nook</h3>
+    <h3 align="center"><strong>The Book Nook</strong></h3>
     <br />
     <p align="center">
     <a href="https://the-book-nook-jamcollaborative.netlify.app/" target="_blank">
@@ -69,7 +68,7 @@ I am passionate about creating technology experiences across all avenues of enga
 
 ## 👯 I’m looking to collaborate on:
 
-- Any projects that will help me sharpen my coding skills
+- Projects that will help others in some way i.e. bring awareness to causes that adversely affect the collective
 - Reach out with any project ideas we can use to build our portfolios!
 
 ## 📫 How to reach me:
