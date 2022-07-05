@@ -4,6 +4,15 @@
 <br> Pronunciation: MY-an THORN-tuhn | Pronouns: (she/her) </h1>
 I am skilled in HTML, CSS, Bootstrap, JavaScript, Chrome Dev Tools, React, Git, Terminal, NodeJS, Axios, Express and MongoDB.
 
+<!-- Shield's To be later added??? -->
+<!-- <p align ="center"><a href="https://www.linkedin.com/in/MaianneThornton/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:Maianne.Thornton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;</p> -->
+
+<br>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=maiannethornton&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 I am passionate about creating technology experiences across all avenues of engagement with the goal of promoting equity through the user experience.
 
 ## Recent Projects
