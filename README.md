@@ -25,7 +25,7 @@
     <p align="center">
     <a href="https://maianne-github-repos.netlify.app/" target="_blank">
     <img src ="Images/GithubRepos.gif"></a>
-    <p><strong>Javascript, Axios, Asynchronous API</strong> - A full-stack app that accesses the GitHub REST API to display user information. This app requires users to search for repos by their usernames.</p>
+    <p><strong>Javascript, Axios, Asynchronous API</strong> - A full-stack app that accesses the GitHub REST API to display user information. This app requires users to search usernames.</p>
     </td>
 
   <td width="50%" valign="top">
