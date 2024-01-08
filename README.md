@@ -10,9 +10,10 @@
 
 <p align= 'center'> I am passionate about creating technological experiences across all avenues of engagement with the goal of promoting equity through the user experience. </p>
 <br>
-<p align='center'>
+<!-- Stats bar -->
+<!-- <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=maiannethornton&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+</p> -->
 
 ## Recent Projects
 
